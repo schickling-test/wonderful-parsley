@@ -105,6 +105,11 @@ sections:
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
+    actions: []
+    type: section_cta
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
     background: gray
     faq_items: []
     type: section_faq
@@ -124,11 +129,6 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    actions: []
-    type: section_cta
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
