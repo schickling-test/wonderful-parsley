@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/2.jpg
+    image: images/11_thumb.jpg
     image_alt: App preview
     title: Hi Guillermo!
     content: >-
