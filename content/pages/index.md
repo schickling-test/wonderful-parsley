@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/11_thumb.jpg
     image_alt: App preview
-    title: Hi Paul!
+    title: Hi Uri!
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site.
